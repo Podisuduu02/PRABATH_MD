@@ -38,12 +38,12 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94762280384"
+      OWNER_NUMBER="94705262620"
       MONGODB_URI="Enter-mongodb_uri"
       SESSION_ID = "enter session_id"
       port = 5000
       OWNER_NAME = "prabath-md"
-      AUTO_REACTION = false
+      AUTO_REACTION = true
       AUTO_VOICE = false
       AUTO_STICKER = false
       FAKE_COUNTRY_CODE = 92
@@ -53,7 +53,7 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       THEME= PRABATH-MD
-      WORKTYPE = public
+      WORKTYPE = privte
       PACK_INFO = "prabath ✅;prabath-md"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
